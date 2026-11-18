@@ -1,4 +1,4 @@
-# Irradiance Datalogger Dashboard
+# Irradiance Datalogger Dashboard (Universidad del Magdalena)
 
 ![Angular](https://img.shields.io/badge/Angular-17+-dd0031)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6)
