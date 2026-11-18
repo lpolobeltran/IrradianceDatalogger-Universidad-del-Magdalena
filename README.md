@@ -83,5 +83,5 @@ La aplicación necesita el ID de la hoja de Google Sheets y una clave de API de 
 ## Autores
 
 - Marlon Guerrero
-- **Luis Polo Beltrán** · [GitHub](https://github.com/lpolobeltran) · [LinkedIn](COMPLETAR)
+- **Luis Polo Beltrán**
 - Nohemith Llanos
