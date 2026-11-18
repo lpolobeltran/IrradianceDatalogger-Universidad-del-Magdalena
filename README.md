@@ -8,7 +8,7 @@ Panel web desarrollado en Angular para monitorear las mediciones de un datalogge
 
 Proyecto desarrollado en el programa de Ingeniería Electrónica de la Universidad del Magdalena.
 
-![Panel de control](docs/dashboard.png)
+![Panel de control](docs/interfaz.png)
 
 ## Características
 
